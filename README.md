@@ -19,8 +19,8 @@
 
 ```javascript
 const anurag = {
-  🎓  education  : "B.Tech CSE @ Medicaps University, Indore | CGPA: 7.91",
-  📅  year       : "3rd Year (2022–2026)",
+  🎓  education  : "B.Tech CSE @ Medicaps University, Indore ",
+  📅  year       : "3rd Year",
   💼  roles      : ["Full Stack Developer", "Frontend Developer", "AI/ML Engineer"],
   🛠️  building   : ["MERN Stack Apps", "AI/ML Projects", "Open Source Contributions"],
   📖  learning   : ["Advanced React", "System Design", "LeetCode DSA", "Machine Learning"],
