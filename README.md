@@ -222,7 +222,7 @@ const anurag = {
 [![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragtiwari1945@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work!-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA%20Grind!-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-leetcode-username)
-[![Instagram](https://img.shields.io/badge/Instagram-@royale__creations__1945-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/royale_creations_1945)
+[![Instagram](https://img.shields.io/badge/Instagram-@royale__creations__1945-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anurag_tiwari_1945)
 
 <br/><br/>
 
