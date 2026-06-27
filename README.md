@@ -221,7 +221,7 @@ const anurag = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragtiwari1945)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragtiwari1945@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work!-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://anurag-tiwari-develo-a9ux.bolt.host)
-[![Instagram](https://img.shields.io/badge/Instagram-@royale__creations__1945-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anurag_tiwari_1945)
+[![Instagram](https://img.shields.io/badge/Instagram-@anurag_tiwari_1945-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anurag_tiwari_1945)
 
 <br/><br/>
 
