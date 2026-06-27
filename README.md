@@ -87,7 +87,7 @@ const anurag = {
 <td width="50%" valign="top">
 <h3 align="center">🍽️ Krishna Restaurant</h3>
 <div align="center">
-<a href="https://your-krishna-link.vercel.app" target="_blank">
+<a href="https://krishna-restaurant-website.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/🔴%20LIVE-Visit%20Now-success?style=for-the-badge" />
 </a>
 <a href="https://github.com/anurag1208-05/krishna-restaurant" target="_blank">
@@ -220,7 +220,7 @@ const anurag = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragtiwari1945)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragtiwari1945@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work!-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work!-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](anurag-tiwari-develo-a9ux.bolt.host)
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA%20Grind!-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-leetcode-username)
 [![Instagram](https://img.shields.io/badge/Instagram-@royale__creations__1945-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anurag_tiwari_1945)
 
