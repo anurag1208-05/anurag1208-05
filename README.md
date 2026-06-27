@@ -9,7 +9,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=anurag1208-05&color=6A0DAD&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/anurag1208-05)
 [![GitHub followers](https://img.shields.io/github/followers/anurag1208-05?style=for-the-badge&color=6A0DAD&logo=github)](https://github.com/anurag1208-05?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anuragtiwari1945)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%236A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%236A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://anurag-tiwari-develo-a9ux.bolt.host)
 
 </div>
 
@@ -110,7 +110,7 @@ const anurag = {
 <td width="50%" valign="top">
 <h3 align="center">💼 Developer Portfolio</h3>
 <div align="center">
-<a href="https://your-portfolio-link.vercel.app" target="_blank">
+<a href="https://anurag-tiwari-develo-a9ux.bolt.host" target="_blank">
 <img src="https://img.shields.io/badge/🔴%20LIVE-Visit%20Now-success?style=for-the-badge" />
 </a>
 <a href="https://github.com/anurag1208-05/portfolio" target="_blank">
@@ -172,7 +172,7 @@ const anurag = {
 
 | 🎯 | Achievement |
 |---|---|
-| 🎓 | B.Tech CSE @ Medicaps University — CGPA **7.91** |
+| 🎓 | B.Tech CSE @ Medicaps University|
 | 🏛️ | Active Member — **STIC** (Students' Technical & Innovation Club) |
 | 🚀 | Deployed **Full Stack App** on Vercel + Render (MongoDB Atlas backend) |
 | 💡 | Built **2+ production-ready** projects with live deployments |
@@ -221,7 +221,6 @@ const anurag = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragtiwari1945)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragtiwari1945@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work!-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](anurag-tiwari-develo-a9ux.bolt.host)
-[![LeetCode](https://img.shields.io/badge/LeetCode-DSA%20Grind!-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-leetcode-username)
 [![Instagram](https://img.shields.io/badge/Instagram-@royale__creations__1945-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anurag_tiwari_1945)
 
 <br/><br/>
